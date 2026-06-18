@@ -53,3 +53,5 @@ sudo cat /var/jenkins_home/secrets/initialAdminPassword
 Now Good to go! You can access Jenkins by navigating to http://localhost:8080 in your web browser. Use the initial admin password obtained from the previous step to log in and start configuring Jenkins for your projects.
 
 create a new user and set up your Jenkins environment according to your project requirements.
+
+Fallow the steps in the above sections to set up your Jenkins environment and start automating your CI/CD pipelines.

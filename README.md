@@ -10,3 +10,4 @@ Maven, on the other hand, is a build automation and project management tool that
 
 With these basic tools, along with Jenkins, developers can create an efficient and robust workflow. This tutorial also includes a procedure for how to install JDK for Jenkins in Ubuntu.
 
+configured webhooks
